@@ -16,7 +16,7 @@ Hirdetés/social → **Ügyfélút-térkép** (lead magnet) → email-sorozat �
 
 | Fájl | Mit tartalmaz |
 |---|---|
-| [`lead-magnet-rendszer.md`](./lead-magnet-rendszer.md) | A teljes rendszer: funnel, weboldal-szövegek, audit kérdések, AI-prompt, a kész „termék" sablonja, **5 részes email-sorozat**, konzultációs forgatókönyv, fő ajánlat, mérés, checklista |
+| [`lead-magnet-rendszer.md`](./lead-magnet-rendszer.md) | A teljes rendszer: funnel, weboldal-szövegek, audit kérdések, AI-prompt, a kész „termék" sablonja, **5 részes email-sorozat**, konzultációs forgatókönyv, fő ajánlat + **árazási stratégia**, **lead magnet típus-menü**, mérés, checklista |
 | [`canva-pdf-sablon.md`](./canva-pdf-sablon.md) | Az Ügyfélút-térkép PDF sablonja Canvához — oldalról oldalra, színekkel, betűtípusokkal, placeholder→AI megfeleltetéssel |
 | [`posthog-meres.md`](./posthog-meres.md) | PostHog mérés: események, instrumentálás, kész funnel-JSON, dashboard |
 
@@ -39,6 +39,9 @@ Hirdetés/social → **Ügyfélút-térkép** (lead magnet) → email-sorozat �
 - [ ] Ráerősít legalább 1 érték-vektorra (gyors / kockázatmentes / könnyű)
 - [ ] A konzultáció végén az ügyfél MŰKÖDŐ dologgal távozik
 - [ ] A fő ajánlatban van kockázatfordító garancia
+- [ ] Van alternatív lead magnet a 3 típusból, ha gyenge a konverzió
+- [ ] A belépő ingyenes VAGY erős (80–90%) kedvezmény — nem gyenge 10–20%
+- [ ] A fő ajánlat prémiumként pozicionált (nem árverseny)
 - [ ] Be van állítva a mérés
 
 ---

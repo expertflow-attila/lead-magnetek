@@ -70,6 +70,33 @@ megtámogatnod, hogy ne rajtad múljon minden."
 - **Kockázat:** „Nem kell rendszerbe beruháznod — előbb csak feltérképezünk."
 - **Könnyűség:** „Nem kell AI-t tanulnod. Te elmondod, hogy működik most; a többi az enyém."
 
+### A 3 lead magnet típus — mikor melyiket
+
+Az „Ügyfélút-térkép" fent egy **problémafeltáró + a megoldás próbája** kombó. De ha a számok ezt
+kérik, válthatsz vagy tesztelhetsz másikat. A három típus (Hormozi):
+
+| Típus | Mit ad az érdeklődőnek | Mikor válaszd | Expert Flow példa |
+|---|---|---|---|
+| **Problémafeltáró** | Megnevezi a rejtett bajt, amit eddig csak érzett | Hidegebb közönség, aki még nem látja pontosan a problémát | „Ügyfélút-térkép" (a jelenlegi) • „5 pont, ahol elvesznek az érdeklődőid" |
+| **Próba a megoldásból** | Egy kis, valódi eredményt máris megtapasztal | Már érzi a bajt, de bizalom kell, hogy lépjen | „Ingyen elindítom az első AI-munkatársad vázát 48 órán belül" • „Küldd el az érdeklődő-kezelésed, megmutatom, hol veszítesz leadet" |
+| **Splinter (egy lépés a teljesből)** | A fő szolgáltatás egy értékes, kiszakított szelete | Közel a vásárláshoz, gyorsabb upsell kell | „AI működési térkép 48 óra alatt" • „Ügyfélút audit" • „Első onboarding email-sorozat vázlata" |
+
+**Hogyan dönts a számokból:**
+- Gyenge a **feliratkozás** (kevesen adják meg az emailt)? → kézzelfoghatóbb **próba a megoldásból**.
+- Jó a feliratkozás, de kevés a **foglalás**? → **splinter**: vidd közelebb a fő ajánlathoz.
+
+### Belépő: ingyenes magnet vs. erős kedvezmény (tripwire)
+
+Nem csak ingyenes magnettel lehet belépőt adni. Két út, eltérő haszonnal:
+- **Ingyenes magnet:** a legtöbb lead, a legkisebb elköteleződés — hideg közönségre ideális.
+- **Erős kedvezményű, kis fizetős lépés (tripwire):** kevesebb, de **előminősített** érdeklődő —
+  aki fizet (bármilyen keveset), az komolyabban gondolja.
+
+Hormozi figyelmeztetése: a **10–20% kedvezmény gyenge**, nem változtat viselkedést. Ha kedvezményt
+adsz, az legyen **80–90%** egy olyan részre, ami neked **olcsón előállítható, de az ügyfélnek
+értékes**. Például: *„AI működési audit — normál ár 80 000 Ft, most elsőre 9 900 Ft"* → majd innen
+upsell a fő ajánlatra (lásd `§ 9`).
+
 ---
 
 ## 3) WEBOLDAL-SZÖVEGEK (a lead magnet blokkhoz)
@@ -369,6 +396,18 @@ Ha most nem aktuális, semmi gond — a tippeket ezután is küldöm. De ha igen
 **Aranyszabály:** a hívás akkor is sikeres, ha nem vásárol — mert akkor is kapott valami működőt.
 Ettől lesz hiteles és ajánlott a folyamat.
 
+### Változatok akadálytípus szerint (A/B/C/D)
+
+A záró kérdés (4. rész) akadály-válasza megmondja, **melyik EGY folyamatot** indítsd el élőben, és
+milyen kerettel:
+
+| Akadály | Amit élőben elindítasz | A keret-mondat |
+|---|---|---|
+| **A** — elsikkadnak az érdeklődők, nincs utánkövetés | Automatikus érdeklődő-rögzítés + utánkövetés-emlékeztető | „Mostantól egy lead se vesszen el." |
+| **B** — sok az admin és a kézi munka | A leggyakoribb ismétlődő admin (visszaigazolás, számlázási emlékeztető) automatizálása | „Heti pár órát visszaadunk neked." |
+| **C** — rendszertelen, fejben tartja a dolgokat | Egy helyen követhető ügyfélállapot / napi összefoglaló | „Ne a fejedben legyen — lásd egy helyen." |
+| **D** — van ötlete, de nincs ideje bevezetni | Az ő saját ötletéből egy apró, működő szelet, élőben | „Ma elindul — és nem rajtad múlik." |
+
 ---
 
 ## 9) A FŐ AJÁNLAT (kockázatfordítással)
@@ -385,8 +424,15 @@ Ettől lesz hiteles és ajánlott a folyamat.
   elmarad."
 - vagy: „Ha az első hónapban nem szabadít fel legalább heti 2 órát, közösen újraépítjük díjmentesen."
 
-**Árazás:** mivel gyorsabb + kevésbé kockázatos + könnyebb, mint egy „csináld magad AI" → prémiumként
-árazható. (Konkrét számot a saját költségeid alapján.)
+**Árazás — miért prémium (és miért nem árverseny):**
+Mivel **gyorsabb + kevésbé kockázatos + könnyebb**, mint egy „csináld magad AI", **nem ugyanazt
+árulod**, mint a piac — így kilépsz az árversenyből.
+- Ne azt kérdezd: „meg tudom-e csinálni olcsóbban?" Hanem: **„mi kéne, hogy 1/3 idő alatt
+  meglegyen?"** — és a többletköltséget (jobb eszköz, előkészítés, gyorsabb válaszidő) **beárazod**.
+- Ha az átlagügyfél ezt nem fizeti meg, az nem baj: **menj feljebb a piacon**, ahol a gyorsaság és a
+  biztonság többet ér az olcsóságnál.
+- A konkrét számot a **saját költséged + a felszabadított idő / megtartott érdeklődő értéke** adja —
+  ne 10–20% kedvezménnyel versenyezz (a belépő logikája: `§ 2`).
 
 ---
 
@@ -426,5 +472,3 @@ Ebből látod, hol esik ki a legtöbb ember, és azt a lépést optimalizálod.
 - [ ] A konzultáció végén az ügyfél MŰKÖDŐ dologgal távozik?
 - [ ] A fő ajánlatban van kockázatfordító garancia?
 - [ ] Van mérés, hogy lásd, hol esik ki az ember?
-```
-```
