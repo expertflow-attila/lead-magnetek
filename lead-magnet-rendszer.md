@@ -50,6 +50,21 @@ Hirdetés / social / organikus
    FŐ AJÁNLAT (kockázatfordítással) → értéklépcső
 ```
 
+### Miért lead magnet, és nem közvetlen „foglalj hívást"?
+
+Egy közvetlen „kérj ajánlatot / foglalj hívást" hirdetés csak a piac **legmelegebb**, döntésre kész
+részét éri el — ez kicsi szelet. Rövid távon jobb a megtérülése (ROAS), mert aki kattint, már venni
+akar. De **kevés embert** ér el, és **nehezen skálázódik**.
+
+A lead magnet **puhítja a kérést**: a sokkal nagyobb, „érzem a problémát, de még nem döntöttem"
+közönséget is bevonja. Az első napon alacsonyabb a ROAS, **időtávban viszont magasabb** (az
+email-sorozat + a konzultáció konvertál), és **jóval jobban skálázódik**.
+
+**Gyakorlati következmény:**
+- A ROAS-t **időtávban** nézd (30/60/90 nap), ne csak az első kattintásból — különben idő előtt
+  „kivégzed" a jól működő lead magnetet.
+- A közvetlen ajánlatot tartsd meg a legmelegebb közönségre (retargeting) — a kettő kiegészíti egymást.
+
 ---
 
 ## 2) A LEAD MAGNET: „ÜGYFÉLÚT-TÉRKÉP"
@@ -148,6 +163,21 @@ AI-munkatársadat**. Konkrét, működő dologgal távozol — nem újabb teend�
 **CTA gomb:** Foglalok egy ingyenes konzultációt →
 **Bizalom-sor:** Nincs kötelezettség • Működő dologgal távozol • Nem kell AI-t értened
 
+### 3.6 Fájdalom-számszerűsítés (a státusz quo ára)
+
+Az ember akkor lép, ha **számot** lát a veszteségre — nem elég, hogy „sok a káosz". A landingen és a
+térképben tedd nagyságrenddé a mostani veszteséget (mindig „kb.", **sosem garantált bevétel**):
+
+**Egyszerű képlet:**
+`(elveszett érdeklődő/hó × egy ügyfél átlagos értéke) + (kézi munkára menő óra/hét × a te órád értéke) = a státusz quo becsült havi ára`
+
+**Példa copy:**
+„Ha hetente kb. 5 óra megy el kézi adminra, és havonta akár 2 érdeklődő elsikkad, az nagyságrendileg
+több tízezer forint és egy teljes munkanap — **minden hónapban, újra.** A térkép megmutatja, pontosan hol."
+
+> A személyre szabott számot az audit AI-kimenete adja (lásd `§ 5`–`§ 6`): a 🕳️ rész alatt ott a
+> „státusz quo becsült havi ára". Ez teszi a fájdalmat kézzelfoghatóvá — anélkül, hogy bevételt ígérnél.
+
 ---
 
 ## 4) AZ AUDIT KÉRDÉSEI
@@ -193,7 +223,8 @@ gyakorlatias, meleg, túlzások és üres szlogenek nélkül. Megszólítás: �
 Feladat: Az alábbi válaszokból
 1) rajzold fel egyszerű lépéssorként az ügyfélutat (érdeklődéstől a fizető ügyfélig),
 2) azonosíts PONTOSAN 3 szivárgási pontot (hol veszik el érdeklődő, idő vagy
-   ügyfélélmény), mindegyikhez 1 mondat, hogy miért fáj ez üzletileg,
+   ügyfélélmény), mindegyikhez 1 mondat, hogy miért fáj ez üzletileg, és ahol
+   lehet, egy óvatos „kb." becslés (óra/hét vagy elveszett érdeklődő/hó),
 3) javasolj 3 konkrét folyamatot, amit először levennél a vállukról, mindegyikhez
    a várható haszon (felszabaduló idő VAGY kevesebb elveszett érdeklődő),
 4) jelöld meg, mivel kezdenél a helyükben, és miért.
@@ -220,9 +251,13 @@ Kimenet pontosan ebben a szerkezetben, magyarul:
 (3–6 lépéses, számozott lépéssor a válaszaiból, egyszerű nyelven)
 
 🕳️ A 3 legnagyobb szivárgási pont
-1. (pont) — (1 mondat: miért kerül ez érdeklődőbe vagy időbe)
+1. (pont) — (1 mondat: miért kerül ez érdeklődőbe vagy időbe) [+ „kb." becslés, ha van]
 2. …
 3. …
+
+💸 A státusz quo becsült havi ára
+(1 sor: a fenti rések összegezve „kb." óra/hét és/vagy elveszett érdeklődő/hó —
+sosem garantált bevétel, csak a mostani veszteség nagyságrendje)
 
 🔧 Az első 3 folyamat, amit levennék a válladról
 1. (feladat) → (mit oldana meg, 1 mondat) — kb. (X) óra/hét vagy (X) elveszett
@@ -262,6 +297,9 @@ indítjátok, és működő megoldással távozik — nem újabb teendőlistáva
 1. [pont] — [üzleti hatás]
 2. …
 3. …
+
+💸 A STÁTUSZ QUO BECSÜLT HAVI ÁRA
+[kb. óra/hét és/vagy elveszett érdeklődő/hó — a mostani veszteség nagyságrendje]
 
 🔧 AZ ELSŐ 3 FOLYAMAT, AMIT LEVENNÉK A VÁLLADRÓL
 1. [feladat] → [haszon, becsült megtakarítás]
@@ -419,10 +457,18 @@ milyen kerettel:
 **Csomag-váz:**
 - Ügyfélút-átvilágítás → a 3 legnagyobb folyamat felépítése → bevezetés → 30 nap támogatás.
 
-**Kockázatfordító garancia (Hormozi 2. vektor — válassz egyet):**
-- „Ha 30 napon belül nem működik élesben legalább egy ügyfélfolyamat, a következő hónap díja
-  elmarad."
-- vagy: „Ha az első hónapban nem szabadít fel legalább heti 2 órát, közösen újraépítjük díjmentesen."
+**Kockázatfordító garancia (Hormozi 2. vektor — válassz EGYET, ne halmozd):**
+
+| Garancia-típus | Példa megfogalmazás |
+|---|---|
+| Díjelengedés / pénzvisszafizetés | „Ha 30 napon belül nem működik élesben legalább egy ügyfélfolyamat, a következő hónap díja elmarad." |
+| Eredmény-/teljesítménygarancia | „Ha az első hónapban nem szabadít fel legalább heti 2 órát, közösen újraépítjük díjmentesen." |
+| Idő-/határidőgarancia | „Ha az első működő folyamat nem áll élesben X napon belül, a bevezetés díját nem számítom fel." |
+| „Biztosítás" a legnagyobb félelemre | Nevezd meg a fő félelmet (pl. elakad, leáll, elveszik adat), és vedd le: „Ha bármi elakad, 24 órán belül helyreállítom." |
+
+**Tesztelés:** egyszerre **egy** garanciát kommunikálj, és nézd PostHogban, melyik mellett nő a
+`consultation_booked` → `became_customer` arány. A garancia annál erősebb, minél konkrétabban az
+ügyfél **legnagyobb félelmét** oldja (kapcsold a záró kérdés akadálytípusához, `§ 8`).
 
 **Árazás — miért prémium (és miért nem árverseny):**
 Mivel **gyorsabb + kevésbé kockázatos + könnyebb**, mint egy „csináld magad AI", **nem ugyanazt
